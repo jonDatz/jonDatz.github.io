@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e020a72f.chunk.css",
+    "main.css": "/static/css/main.7274d3b5.chunk.css",
     "main.js": "/static/js/main.3a6cb62b.chunk.js",
     "main.js.map": "/static/js/main.3a6cb62b.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.b9eabfa0.chunk.js": "/static/js/2.b9eabfa0.chunk.js",
     "static/js/2.b9eabfa0.chunk.js.map": "/static/js/2.b9eabfa0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8ee3ec4e36056954766149531dd0f7e8.js": "/precache-manifest.8ee3ec4e36056954766149531dd0f7e8.js",
+    "precache-manifest.8b5b98177e98240b4b7dc360963366da.js": "/precache-manifest.8b5b98177e98240b4b7dc360963366da.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e020a72f.chunk.css.map": "/static/css/main.e020a72f.chunk.css.map",
+    "static/css/main.7274d3b5.chunk.css.map": "/static/css/main.7274d3b5.chunk.css.map",
     "static/media/crystalCollector.png": "/static/media/crystalCollector.b5eeacde.png",
     "static/media/gif-collector.png": "/static/media/gif-collector.7db2a983.png",
     "static/media/jawnit.png": "/static/media/jawnit.05820cb9.png",
